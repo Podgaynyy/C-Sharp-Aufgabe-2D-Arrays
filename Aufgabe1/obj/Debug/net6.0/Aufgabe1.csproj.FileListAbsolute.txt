@@ -1,0 +1,14 @@
+C:\Users\Podgaynyy\Desktop\Programming\GeekBrains\C#\Domashka_2D_Array\Aufgabe1\obj\Debug\net6.0\Aufgabe1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Podgaynyy\Desktop\Programming\GeekBrains\C#\Domashka_2D_Array\Aufgabe1\obj\Debug\net6.0\Aufgabe1.AssemblyInfoInputs.cache
+C:\Users\Podgaynyy\Desktop\Programming\GeekBrains\C#\Domashka_2D_Array\Aufgabe1\obj\Debug\net6.0\Aufgabe1.AssemblyInfo.cs
+C:\Users\Podgaynyy\Desktop\Programming\GeekBrains\C#\Domashka_2D_Array\Aufgabe1\obj\Debug\net6.0\Aufgabe1.csproj.CoreCompileInputs.cache
+C:\Users\Podgaynyy\Desktop\Programming\GeekBrains\C#\Domashka_2D_Array\Aufgabe1\bin\Debug\net6.0\Aufgabe1.exe
+C:\Users\Podgaynyy\Desktop\Programming\GeekBrains\C#\Domashka_2D_Array\Aufgabe1\bin\Debug\net6.0\Aufgabe1.deps.json
+C:\Users\Podgaynyy\Desktop\Programming\GeekBrains\C#\Domashka_2D_Array\Aufgabe1\bin\Debug\net6.0\Aufgabe1.runtimeconfig.json
+C:\Users\Podgaynyy\Desktop\Programming\GeekBrains\C#\Domashka_2D_Array\Aufgabe1\bin\Debug\net6.0\Aufgabe1.dll
+C:\Users\Podgaynyy\Desktop\Programming\GeekBrains\C#\Domashka_2D_Array\Aufgabe1\bin\Debug\net6.0\Aufgabe1.pdb
+C:\Users\Podgaynyy\Desktop\Programming\GeekBrains\C#\Domashka_2D_Array\Aufgabe1\obj\Debug\net6.0\Aufgabe1.dll
+C:\Users\Podgaynyy\Desktop\Programming\GeekBrains\C#\Domashka_2D_Array\Aufgabe1\obj\Debug\net6.0\refint\Aufgabe1.dll
+C:\Users\Podgaynyy\Desktop\Programming\GeekBrains\C#\Domashka_2D_Array\Aufgabe1\obj\Debug\net6.0\Aufgabe1.pdb
+C:\Users\Podgaynyy\Desktop\Programming\GeekBrains\C#\Domashka_2D_Array\Aufgabe1\obj\Debug\net6.0\Aufgabe1.genruntimeconfig.cache
+C:\Users\Podgaynyy\Desktop\Programming\GeekBrains\C#\Domashka_2D_Array\Aufgabe1\obj\Debug\net6.0\ref\Aufgabe1.dll
