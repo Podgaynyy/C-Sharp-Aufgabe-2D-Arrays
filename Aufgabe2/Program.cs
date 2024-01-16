@@ -1,8 +1,8 @@
-﻿//Задайте двумерный массив. Напишите программу,
-//которая поменяет местами первую и последнюю строку массива.
+//Setze ein zweidimensionales Array. Schreiben Sie ein Programm
+//was die erste und letzte Zeile des Arrays vertauscht.
 
 
-int[,] FillArray(int rows, int cols) //Заполняем массив
+int[,] FillArray(int rows, int cols) //Array ausfüllen
 {
     int[,] array = new int[rows, cols];
     for (int i = 0; i < rows; i++)
@@ -15,20 +15,21 @@ int[,] FillArray(int rows, int cols) //Заполняем массив
     return array;
 }
 
-int[,] ZamenaStrok(int[,] array) //Метод, который заменяет строки в массиве
+int[,] ZamenaStrok(int[,] array) //Methode, die Strings in einem Array ersetzt
 {
-    int row1 = 0; //Первая строка будет иметь индекс 0
-    int row2 = array.GetLength(1)-1; //а это индекс последней строки
-    for (int i = 0; i < array.GetLength(1); i++) //Итерируем столбцы
+    int row1 = 0; 
+//Die erste Zeile hat den Index 0
+    int row2 = array.GetLength(1)-1; //und das ist der Index der letzten Zeile
+    for (int i = 0; i < array.GetLength(1); i++) //Iteriere die Spalten
     {
-        int temp = array[row1, i]; // временная переменная для значения столбца в строке
-        array[row1, i] = array[row2, i]; //меняем значения столбца в первой и последней строке
+        int temp = array[row1, i]; // temporäre Variable für Spaltenwert in Zeile
+        array[row1, i] = array[row2, i]; //Ändern Sie die Spaltenwerte in der ersten und letzten Zeile
         array[row2, i] = temp;
     }
     return array;
 }
 
-void PrintArray(int[,] array) //выводим массив на экран
+void PrintArray(int[,] array) //zeige das Array auf dem Bildschirm an
 {
     for (int i = 0; i < array.GetLength(0); i++)
     {
@@ -40,6 +41,7 @@ void PrintArray(int[,] array) //выводим массив на экран
     }
 }
 
-int[,] array = FillArray(4, 4); //создали массив
-PrintArray(array); //распечатали обычный массив
-PrintArray(ZamenaStrok(array));//распечатали массив с заменёнными строками
+int[,] array = FillArray(4, 4); //ein Array erstellt
+PrintArray(array); //ein reguläres Array gedruckt
+PrintArray(ZamenaStrok(array));
+//ein Array mit ersetzten Strings gedruckt
